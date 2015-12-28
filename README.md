@@ -8,4 +8,5 @@ https://github.com/mangaaa/varainteengris
 * [Посудомойка](dishwasher.md)
 * [Вытяжка](hood.md)
 * [Плита и духовка](oven.md)
+* [Измельчитель пищевых отходов](disposer.md)
 * [Пол](floor.md)
