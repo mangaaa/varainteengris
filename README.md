@@ -10,3 +10,4 @@ https://github.com/mangaaa/varainteengris
 * [Плита и духовка](oven.md)
 * [Измельчитель пищевых отходов](disposer.md)
 * [Пол](floor.md)
+* [Телевизор](tv.md)
